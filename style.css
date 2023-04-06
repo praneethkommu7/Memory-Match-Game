@@ -5,13 +5,13 @@
   font-family: "Poppins", sans-serif;
 }
 body {
+  height: 100vh;
   background-color: #f4c531;
 }
 
 .wrapper {
   box-sizing: content-box;
   width: 26.87em;
-  height: 80%;
   padding: 2.5em 3em;
   background-color: #ffffff;
   position: absolute;
@@ -23,6 +23,7 @@ body {
 }
 /* Moves and Time */
 .stats-container {
+  /* margin-top: -1.5rem; */
   text-align: right;
   margin-bottom: 1.2em;
 }
