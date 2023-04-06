@@ -13,7 +13,7 @@ To start the game, simply click on any card on the board. Keep clicking on cards
 </ul>
 
 <h3>Demo</h3>
-To play the game, visit [https://memory-match-game-praneeth.netlify.app/](https://memory-match-game-praneeth.netlify.app/){:target="_blank"}.
+You can play the game online at <a href="https://memory-match-game-praneeth.netlify.app/" target="_blank">Play the game</a>
 
 <h3>Installation</h3>
 Clone the repository to your local machine.<br />
