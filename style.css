@@ -152,7 +152,7 @@ button {
 /* Small screens (mobile) */
 @media only screen and (max-width: 600px) {
   .wrapper {
-    width: 90%;
+    max-width: 20em;
     padding: 1.1em 0.5em;
   }
   .stats-container {
@@ -173,12 +173,13 @@ button {
 }
 
 /* Medium screens (tablet) */
-/* @media only screen and (min-width: 601px) and (max-width: 900px) {
+@media only screen and (min-width: 601px) and (max-width: 900px) {
   .wrapper {
-    width: 80%;
+    min-width: 30em;
     padding: 2em;
   }
   .game-container {
     grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
   }
-} */
+}
