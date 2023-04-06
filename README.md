@@ -5,18 +5,19 @@ This is a simple memory match game created using HTML, CSS, and JavaScript. The 
 To start the game, simply click on any card on the board. Keep clicking on cards until you find a match. Once you find a match, the cards will stay flipped over. Keep going until you match all pairs of cards.
 
 <h3>Features</h3>
-
-Randomized card positions on each new game
-Card animations when flipping and matching cards
-Score tracking system
-Timer tracking how long it takes to complete the game
+<ul>
+  <li>Randomized card positions on each new game</li>
+  <li>Card animations when flipping and matching cards</li>
+  <li>Score tracking system</li>
+  <li>Timer tracking how long it takes to complete the game</li>
+</ul>
 
 <h3>Demo</h3>
 
 You can play the game online at https://memory-match-game-praneeth.netlify.app/.
 
 <h3>Installation</h3>
-Clone the repository to your local machine
+Clone the repository to your local machine.<br />
 Open index.html in your web browser
 
 <h3>Sound Effects</h3>
@@ -27,4 +28,4 @@ This game does not include sound effects.
 
 This game is licensed under the MIT License. Feel free to modify and distribute as you see fit.
 
-Enjoy the game!
+<h2>Enjoy the game!</h2>
