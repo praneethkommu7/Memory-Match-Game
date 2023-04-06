@@ -161,6 +161,7 @@ button {
   .game-container {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
+    gap: 1em;
   }
   .card-container {
     width: 4em;
