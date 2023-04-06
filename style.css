@@ -148,3 +148,33 @@ button {
   bottom: 10px;
   right: 20px;
 }
+
+/* Small screens (mobile) */
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    width: 90%;
+    padding: 1.1em 0.5em;
+  }
+  .stats-container {
+    margin-top: -1rem;
+  }
+  .game-container {
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+  }
+  .card-container {
+    width: 4em;
+    height: 4em;
+  }
+}
+
+/* Medium screens (tablet) */
+/* @media only screen and (min-width: 601px) and (max-width: 900px) {
+  .wrapper {
+    width: 80%;
+    padding: 2em;
+  }
+  .game-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+} */
