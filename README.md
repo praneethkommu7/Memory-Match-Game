@@ -1,4 +1,4 @@
-Memory Match Game
+<h1>Memory Match Game</h1>
 This is a simple memory match game created using HTML, CSS, and JavaScript. The goal of the game is to match all pairs of cards on the board.
 
 How to Play
